@@ -3,7 +3,7 @@ const LinksSocialMedia = {
   youtube: '',
   instagram: 'lucas.fmp',
   facebook: 'profile.php?id=100003118382370',
-  twitter: ''
+  twitter: 'lukinhafmp'
 }
 
 function changeSocialMediaLinks() {
