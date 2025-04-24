@@ -14,7 +14,7 @@ function changeSocialMediaLinks() {
   }
 }
 
-changeSocialMediaLinks()
+// changeSocialMediaLinks()
 
 function getGitHubProfileInfos() {
   const url = `https://api.github.com/users/${LinksSocialMedia.github}`
@@ -30,6 +30,6 @@ function getGitHubProfileInfos() {
     })
 }
 
-getGitHubProfileInfos()
+//getGitHubProfileInfos()
 
 //função fetch: vai até a url passada para ele e nos trás para documento o que ela forneceu, porém, o fetch não sabe o formato do documento. Dentro do then é um arrow function transformando a resposta do fetch em json Um "then" pega a resposta do outro.
